@@ -15,7 +15,7 @@ public class hi {
         }
         
         
-        System.out.println("FINISH");
+        System.out.println("FINISH" );
     }
  
     public static void main(String[] args) {
