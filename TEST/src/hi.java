@@ -15,7 +15,8 @@ public class hi {
         }
         
         
-        System.out.println("FINISH !!!!!!!aaaaa" );
+        System.out.println("FINISH !!!!!!!" );
+        System.out.println("FINISH 2222222" );
     }
  
     public static void main(String[] args) {
