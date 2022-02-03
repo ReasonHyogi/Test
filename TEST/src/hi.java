@@ -15,7 +15,7 @@ public class hi {
         }
         
         
-        System.out.println("FINISH" );
+        System.out.println("FINISH TERSTSETSETSTS" );
     }
  
     public static void main(String[] args) {
